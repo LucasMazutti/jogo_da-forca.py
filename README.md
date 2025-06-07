@@ -16,7 +16,7 @@ Vídeo parte 1 -> https://youtu.be/97qM6sMHPuw
 vídeo parte 2 -> https://youtu.be/a3sfgS8FiDg
 
 ## 📂 Como executar
-1. Clone o repositório - git clone https://github.com/LucasMazutti/jogo_da-forca.py.git
+1. Clone o repositório - git clone https://github.com/LucasMazutti/jogo_da_forca.git
 2. Execute o arquivo `.py` no terminal com Python instalado
 
 ```bash
