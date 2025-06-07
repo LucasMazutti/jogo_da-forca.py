@@ -1,4 +1,4 @@
-# jogo_da-forca.py
+# jogo_da_forca
 Projeto de Jogo da Forca desenvolvido em Python para fins de aprendizado.
 
 # Jogo da Forca em Python 🐍
